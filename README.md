@@ -16,7 +16,7 @@ Currently, I am learning ReactJS framework.
 
 ### Code Academy
 
-- Full-Stack Web Development
+- Full-Stack Web Development (in progress)
   - Front-end development (HMTL, CSS, JavaScript) - completed
   - Back-end development (PHP) - training until July
 
