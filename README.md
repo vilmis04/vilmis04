@@ -22,7 +22,7 @@ Currently, I am learning ReactJS framework.
 
 ## My projects to check out
 
- - [Floppy-Birb](https://vilmis04.github.io/Floppy-Birb/) - A copy of popular mobile game Flappy Bird. [REPO](https://github.com/vilmis04/Floppy-Birb)
+ - [Floppy Birb](https://vilmis04.github.io/Floppy-Birb/) - A copy of popular mobile game Flappy Bird. [REPO](https://github.com/vilmis04/Floppy-Birb)
  - [Tetris](https://tetris.vilmantas.dev) - Classic Tetris game built on with HTML Canvas and Vanilla JavaScript. [REPO](https://github.com/vilmis04/Tetris)
  - [Notes app](https://vilmis04.github.io/Notes-app/) - This is a simple note taking app. It creates notes in the form of sticky notes and stores them in local storage. [REPO](https://github.com/vilmis04/Notes-app)
  - [Simple calendar app](https://vilmis04.github.io/Simple-calendar-app/) - This is a simple calendar app to store events (currently saved in session storage). [REPO](https://github.com/vilmis04/Simple-calendar-app)
