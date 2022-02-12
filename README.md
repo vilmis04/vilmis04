@@ -18,7 +18,7 @@ Currently, I am learning ReactJS framework.
 
 - Full-Stack Web Development (in progress)
   - Front-end development (HMTL, CSS, JavaScript) - completed
-  - Back-end development (PHP) - training until July
+  - Back-end development (PHP, MySQL) - training until July
 
 ## My projects to check out
 
