@@ -1,10 +1,16 @@
 # Hi, I am Vilmantas!
 
-I am a front-end developer in training.
+I am a web developer in training.
 <!---
 I come from Mechanical Engineering / Mechatronics / Manufacturing background
 --->
-Currently, I am learning ReactJS framework.
+Technologies I am familiar with:
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+
+Currently, I am learning ReactJS framework, TypeScript and PHP (+MySQL).
 
 ## Training
 
