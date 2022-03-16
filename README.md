@@ -18,7 +18,7 @@ Currently, I am learning ReactJS framework, TypeScript and PHP (+MySQL).
 
 - JavaScript Algorithms and Data Structures (Issued August 29, 2021) [Certificate](https://www.freecodecamp.org/certification/vilmis04/responsive-web-design)
 - Responsive Web Design (October 23, 2021) [Certificate](https://www.freecodecamp.org/certification/vilmis04/responsive-web-design)
-- Front End Development Libraries (in progress)
+- Front End Development Libraries (Issued March 16, 2022) [Certificate](https://freecodecamp.org/certification/vilmis04/front-end-development-libraries)
 
 ### Code Academy
 
