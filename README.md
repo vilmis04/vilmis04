@@ -5,10 +5,9 @@ I am a web developer in training.
 I come from Mechanical Engineering / Mechatronics / Manufacturing background
 --->
 Technologies I am familiar with:
-- HTML
-- CSS
-- JavaScript
+- HTML/CSS/JavaScript
 - ReactJS
+- PHP
 
 Currently, I am learning ReactJS framework, TypeScript and PHP (+MySQL).
 
