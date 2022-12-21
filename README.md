@@ -1,15 +1,15 @@
 # Hi, I am Vilmantas!
 
-I am a web developer in training.
+I am a full-stack web developer.
 <!---
 I come from Mechanical Engineering / Mechatronics / Manufacturing background
 --->
 Technologies I am familiar with:
-- HTML/CSS/JavaScript
+- HTML/CSS
+- JS/TS
 - ReactJS
 - PHP
-
-Currently, I am learning ReactJS framework, TypeScript and PHP (+MySQL).
+- NodeJS
 
 ## Training
 
