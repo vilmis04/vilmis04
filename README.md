@@ -21,9 +21,9 @@ Technologies I am familiar with:
 
 ### Code Academy
 
-- Full-Stack Web Development (in progress)
-  - Front-end development (HMTL, CSS, JavaScript) - completed
-  - Back-end development (PHP, MySQL) - training until July
+- Full-Stack Web Development
+  - Front-end development (HMTL, CSS, JavaScript)
+  - Back-end development (PHP, MySQL)
 
 ## My projects to check out
 
