@@ -5,25 +5,19 @@ I am a full-stack web developer.
 I come from Mechanical Engineering / Mechatronics / Manufacturing background
 --->
 Technologies I am familiar with:
-- HTML/CSS
-- JS/TS
-- ReactJS
-- PHP
-- NodeJS
-
-## Training
-
-### freeCodeCamp.org
-
-- JavaScript Algorithms and Data Structures (Issued August 29, 2021) [Certificate](https://www.freecodecamp.org/certification/vilmis04/responsive-web-design)
-- Responsive Web Design (October 23, 2021) [Certificate](https://www.freecodecamp.org/certification/vilmis04/responsive-web-design)
-- Front End Development Libraries (Issued March 16, 2022) [Certificate](https://freecodecamp.org/certification/vilmis04/front-end-development-libraries)
-
-### Code Academy
-
-- Full-Stack Web Development
-  - Front-end development (HMTL, CSS, JavaScript)
-  - Back-end development (PHP, MySQL)
+- Frontend:
+  - HTML/CSS
+  - JS/TS
+  - ReactJS
+    
+- Backend:
+  - PHP
+  - NodeJS
+  - NestJS
+    
+- Tooling: 
+  - Docker
+  - Nx monorepo
 
 ## Contact me
 
