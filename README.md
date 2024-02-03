@@ -11,7 +11,7 @@ Technologies I am familiar with:
   - ReactJS
     
 - Backend:
-  - PHP
+  - Go
   - NodeJS
   - NestJS
     
