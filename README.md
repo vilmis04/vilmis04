@@ -1,22 +1,26 @@
 # Hi, I am Vilmantas!
 
-I am a full-stack web developer.
+I am a frontend-focused full-stack web developer.
 <!---
 I come from Mechanical Engineering / Mechatronics / Manufacturing background
 --->
 Technologies I am familiar with:
 - Frontend:
-  - HTML/CSS
-  - JS/TS
+  - TypeScipt/JavaScript
   - ReactJS
+  - HTML/CSS
     
 - Backend:
   - Go
   - NodeJS
+  - ExpressJS
   - NestJS
     
 - Tooling: 
   - Docker
+  - Vite
+  - Jest/Vitest
+  - Cypress
   - Nx monorepo
 
 ## Contact me
