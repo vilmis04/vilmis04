@@ -11,10 +11,10 @@ Technologies I am familiar with:
   - HTML/CSS
     
 - Backend:
-  - Go
   - NodeJS
   - ExpressJS
   - NestJS
+  - Go
     
 - Tooling: 
   - Docker
