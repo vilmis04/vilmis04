@@ -15,6 +15,8 @@ Technologies I am familiar with:
   - ExpressJS
   - NestJS
   - Go
+  - SQL
+  - PostgreSQL / MongoDB
     
 - Tooling: 
   - Docker
