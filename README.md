@@ -1,13 +1,12 @@
 # Hi, I am Vilmantas!
 
 I am a frontend-focused full-stack web developer.
-<!---
-I come from Mechanical Engineering / Mechatronics / Manufacturing background
---->
+
 Technologies I am familiar with:
 - Frontend:
   - TypeScipt/JavaScript
   - ReactJS
+  - VueJS
   - HTML/CSS
     
 - Backend:
