@@ -11,6 +11,7 @@ Technologies I am familiar with:
     
 - Backend:
   - NodeJS
+  - Deno
   - ExpressJS
   - NestJS
   - Go
