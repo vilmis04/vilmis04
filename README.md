@@ -5,6 +5,7 @@ I am a frontend-focused full-stack web developer.
 Technologies I am familiar with:
 - Frontend:
   - TypeScipt/JavaScript
+  - NextJS
   - ReactJS
   - VueJS
   - HTML/CSS
